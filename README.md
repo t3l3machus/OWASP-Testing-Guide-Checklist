@@ -2,10 +2,17 @@
 This is merely a markdown version of this project: https://github.com/tanprathan/OWASP-Testing-Checklist
 
 ## Table of Contents
-1. [Example](#Information-Gathering)
-2. [Example2](#Configuration-and-Deploy-Management-Testing)
-3. [Third Example](#third-example)
-4. [Fourth Example](#Identity-Management-Testing)
+1. [Information Gathering](#Information-Gathering)
+2. [Configuration and Deploy Management Testing](#Configuration-and-Deploy-Management-Testing)
+3. [Identity Management Testing](#Identity-Management-Testing)
+4. [Authentication Testing](#Authentication-Testing)
+5. [Authorization Testing](#Authorization-Testing)
+6. [Session Management Testing](#Session-Management-Testing)
+7. [Data Validation Testing](#Data-Validation-Testing)
+8. [Error Handling](#Error-Handling)
+9. [Cryptography](#Cryptography)
+10. [Business logic Testing](#Business-logic-Testing)
+11. [Client Side Testing](#Client-Side-Testing)
 
 
 ### Information Gathering  
