@@ -1,6 +1,6 @@
 ## Disclaimer
 This is merely a markdown version of this project: https://github.com/tanprathan/OWASP-Testing-Checklist
-
+The original repo includes an xlsx file that contains all of the below content.  
 ## Table of Contents
 1. [Information Gathering](#Information-Gathering)
 2. [Configuration and Deploy Management Testing](#Configuration-and-Deploy-Management-Testing)
